@@ -10,6 +10,8 @@
 
 * Jb Hum Big O ki bt krty hai to hum worst case scenario ki bt krty hai
 
+* Constants matter nh krty, like 2n k case m 'n' hi chalega, 15n square k case m 'n square' hi chalega etc
+
 
 
 <img src="./images/image3.png">
@@ -19,3 +21,9 @@
 <img src="./images/image5.png">
 <img src="./images/image6.png">
 <img src="./images/image7.png">
+<img src="./images/image8.png">
+<img src="./images/image9.png">
+<img src="./images/image10.png">
+<img src="./images/image11.png">
+<img src="./images/image12.png">
+
