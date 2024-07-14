@@ -7,4 +7,4 @@
 * Big Notation k liye hum number of operations ko count krty hai, like kitni mulitiply, divide subtract add etc operations. Is s pta chalta hai k code kitna fast or efficient hoga
 
 <img src="./images/image.png">
-<img src="./images/image-1.png.png">
+<img src="./images/image-1.png">
