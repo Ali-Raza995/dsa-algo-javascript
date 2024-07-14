@@ -27,3 +27,5 @@
 <img src="./images/image11.png">
 <img src="./images/image12.png">
 
+<h2> Space Complexity </h2>
+
