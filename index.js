@@ -50,4 +50,5 @@ const factorialNumber2 = (number) => {
 }
 
 console.log("factorialNumber", factorialNumber(5))
-console.log("factorialNumber2", factorialNumber2(5))
+
+
